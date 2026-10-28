@@ -1,0 +1,17 @@
+Student_ID,Student_Name,Age,Department,City,Favourite_Food,Attendance_Percent,Marks,Part_Time_Salary,Phone_Battery,Excuse,Placement_Status
+101,  aJAY SLEEPY  ,20,Python,Bengaluru,dosa,45,25,0,2,  bus late ,not ready
+102,bINDU BIRYANI,21,Data Science,Mysuru,BIRYANI,88,91,5000,100,no excuse,PLACED
+103,CHANDRU CHAI,19,Python,Hubballi,ChAi,72,64,1500,18,need chai,interview soon
+104,dIVYA DRAMA,20,Testing,Bengaluru,Pizza,95,98,0,76,family function,Placed
+105,Eshwar Einstein,22,Data Science,Mangaluru,pani puri,81,86,8000,55,WiFi issue,PLACED
+106,fATIMA FOODIE,21,Testing,Mysuru,Biryani,,73,2500,9,sleeping,training
+107,GOPI GAMER,20,Python,Bengaluru,noodles,67,55,3000,1,gaming all night,not ready
+108,harry homeworkless,19,Web Dev,Pune,Pizza,32,18,0,4,alarm failed,not ready
+109,INDU INSTA,22,Data Science,Chennai,ice cream,91,89,4000,99,reel making,placed
+110,jAGGU JOKER,23,Testing,Bengaluru,DOSA,58,42,1000,13,traffic,training
+111,KAVYA KANNADA,20,Python,Mysuru,masala dosa,84,78,0,67,festival,Placed
+112,lOKI LATECOMER,21,Web Dev,Pune,Burger,40,,2000,5,overslept,interview soon
+113,MADHU MEMER,,Testing,Hubballi,biryani,76,68,3500,28,forgot timetable,training
+114,NANDU NAP KING,22,Python,Chennai,noodles,62,39,500,3,one more nap,not ready
+114,NANDU NAP KING,22,Python,Chennai,noodles,62,39,500,3,one more nap,not ready
+,,,,,,,,,,,
